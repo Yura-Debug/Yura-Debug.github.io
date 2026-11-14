@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.yura_debug.twa",
+    "sha256_cert_fingerprints": ["44:48:E6:60:46:11:13:62:B5:DE:4C:9B:91:BC:3E:D9:1E:6C:8F:F3:86:69:16:7A:58:1D:70:8C:24:2F:AE:25"]
+  }
+}]
